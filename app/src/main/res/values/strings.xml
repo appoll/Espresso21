@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Espresso21</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_login">Login Here to be awesome</string>
+</resources>
